@@ -61,7 +61,7 @@ function Navbar() {
           />
         </div>
       </div>
-      <div className="flex w-full gap-8">
+      <div className="flex w-full gap-8 bg-gray-200">
         <div className="ml-5 py-4 flex-col">
           <img
             src="https://d2ah634u9nypif.cloudfront.net/wp-content/themes/nalco/images/nalco-logo.png"
